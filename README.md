@@ -17,6 +17,6 @@
 - 😄 DevOps Recrutement.
 
 
- 
-![github-header-image](https://github.com/DevOps-Area/DevOps-Area/assets/145847816/b0f3ad1b-f890-409f-8630-abf41f3ee59e)
+![github-header-image (1)](https://github.com/DevOps-Area/DevOps-Area/assets/145847816/cb93703d-cc4b-4ff1-81a1-bc97cdd9ee4e)
+
 
