@@ -10,11 +10,12 @@
 
 - 🤔 Training Courses. 
 
-- 💬 DevOps Practical Projects. 
+- 💬 DevOps Practical Projects. you can also use  [DevOps PlayGround](https://play.devopsarea.com). 
 
 - 📫 DevOps Mentorship 
 
 - 😄 DevOps Recrutement
 
-## WE Provide also DevOPs Sandbox 
+
+ 
 
